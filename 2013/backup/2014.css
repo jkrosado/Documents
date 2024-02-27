@@ -1,0 +1,77 @@
+span.yt-subscription-button-subscriber-count-branded-horizontal::after, span.yt-subscription-button-subscriber-count-branded-horizontal::before {
+    display: none;
+}
+span.yt-subscription-button-subscriber-count-branded-horizontal {
+    margin-left: -1px;
+    border-left: none;
+    border-radius: 0px 2px 2px 0px;
+}
+img.yt-uix-button-icon.yt-uix-button-icon-subscribe-branded {
+    background: no-repeat url(http://s.ytimg.com/yts/imgbin/www-hitchhiker-vflJNvSK4.png) -106px -56px;
+    background-size: auto;
+    width: 16px;
+    height: 12px;
+}
+span.subscribe-hh-label {
+    color: white;
+    text-shadow: none;
+}
+.yt-uix-button-subscribe-branded span.yt-uix-button-icon-wrapper, .yt-uix-button-subscribe-branded span.yt-uix-button-icon-wrapper:hover {
+    background: transparent!important;
+    border: 1px solid #ccc!important;
+    border-right: none!important;
+}
+button.yt-subscription-button.yt-subscription-button-js-default.None.yt-uix-button.yt-uix-button-subscribe-branded {
+    border: 1px solid #ccc!important;
+}
+button.yt-subscription-button.yt-subscription-button-js-default.None.yt-uix-button.yt-uix-button-subscribe-branded {
+    background: #e62117;
+}
+button.yt-subscription-button.yt-subscription-button-js-default.None.yt-uix-button.yt-uix-button-subscribe-branded:hover {
+    background: #cc181e;
+}
+.video-extras-sparkbars {
+    border: none;
+}
+.video-extras-sparkbar-dislikes {
+    background: #ccc!important;
+    border: none!important;
+    margin-right: 0px!important;
+}
+.video-extras-sparkbar-likes {
+    background: #0089ce!important;
+    border: none!important;
+}
+.video-extras-sparkbars {
+    height: 2px;
+}
+span.video-extras-likes-dislikes {
+    display: none;
+}
+div#watch7-views-info {
+    margin-top: 19px;
+}
+#yt-masthead-container {
+    background: #fff!important;
+}
+div#page-container {
+    background: #f1f1f1;
+}
+div#guide {
+    background: white;
+    border-left: solid white 4em;
+    margin-left: -4em;
+}
+ol#search-results {
+    background: #fff;
+    box-shadow: 0 1px 2px rgba(0,0,0,.1)!important;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 11px;
+}
+div#watch7-sidebar {
+    background: #fff;
+    box-shadow: 0 1px 2px rgba(0,0,0,.1)!important;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}

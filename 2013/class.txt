@@ -1,0 +1,3 @@
+html5-video-player ytp-transparent ytp-larger-tap-buttons ytp-exp-bottom-control-flexbox ytp-exp-ppp-update ytp-cards-teaser-dismissible ytp-hide-info-bar ytp-large-width-mode ytp-autonav-endscreen-cancelled-state ytp-iv-drawer-enabled ytp-ce-shown paused-mode
+
+<?php if($_SERVER['REQUEST_URI'] == "/2013/profile?id=Spotlight") { echo " guide-item-selected"; } ?>
